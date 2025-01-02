@@ -26,7 +26,7 @@
 
 ### Решение 2
 
-![alt text](https://github.com/alexeymanzhos/def_host/blob/main/img/fdiskl.jpg)
+![alt text](https://github.com/alexeymanzhos/def_host/blob/main/img/fidskl.jpg)
 
 ![alt text](https://github.com/alexeymanzhos/def_host/blob/main/img/luks.jpg)
 
